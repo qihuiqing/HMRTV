@@ -17,3 +17,8 @@ author = {Huiqing Qi and Chongning Zhang and Fang Li and Xiaoliu Luo}\
 }
 
 ---
+
+
+# License
+
+MIT License Copyright
